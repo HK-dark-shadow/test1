@@ -1,2 +1,3 @@
-# test1
-test1
+import os 
+os.system ("clear")
+os.system ("pkg install git")
